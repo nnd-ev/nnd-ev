@@ -9,8 +9,9 @@
 [<img align="left" alt="nndev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.nndev.com)
 [<img align="left" alt="nndev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nndev/)
 [<img align="left" alt="nndev | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](nnd.stanojev@gmail.com)
-[<img align="left" alt="nndev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nndev__)
 [<img align="left" alt="nndev | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/nndev)
+[<img align="left" alt="nndev | Behance" width="22px" src="https://www.behance.net/nndev" />](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg)
+[<img align="left" alt="nndev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nndev__)
 
 <br />
 
