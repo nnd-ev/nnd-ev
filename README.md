@@ -3,6 +3,7 @@
 - 🎯 Sofware Engineer
 - 👨‍💻 Experience 4+ years
 - 🌎 Belgrade, Serbia
+- 📫 How to reach me **nnd.stanojev@gmail.com**
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
