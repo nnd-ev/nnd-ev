@@ -14,6 +14,7 @@
 <a href="https://www.behance.net/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/nndev__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nndev__" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://discord.gg/nndev#6075" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="nndev#6075" height="24" width="24" /></a>
+<a href="https://dev.to/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nndev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
