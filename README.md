@@ -9,9 +9,10 @@
 <p align="left">
 <a href="https://wwww.nndev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
+<a href="mailto:nnd.stanojev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://codepen.io/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/nndev__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nndev__" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/nndev__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nndev__" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://discord.gg/nndev#6075" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="nndev#6075" height="24" width="24" /></a>
 </p>
 
