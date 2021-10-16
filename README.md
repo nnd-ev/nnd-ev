@@ -3,11 +3,13 @@
 - 🎯 Sofware Engineer
 - 👨‍💻 Experience 4+ years
 - 🌎 Belgrade, Serbia
+- 
 <!--- - 📫 How to reach me **nnd.stanojev@gmail.com** --->
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.nndev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
+ <a href="https://www.nndev.com/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHeCY2OFIqgxA/company-logo_200_200/0/1547634891611?e=2159024400&v=beta&t=zq9zfFimAR1vQ0du5eNJBXGVwEd3lcOAJSOuHeuvYdA" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="mailto:nnd.stanojev@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
 <a href="https://codepen.io/nndev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nndev" height="24" width="24" /></a>&nbsp;&nbsp;
