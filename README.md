@@ -1,4 +1,4 @@
-### Hi there  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nndev" height="30" width="40" />
+### Hi there  <img align="center" src="https://tenor.com/bKQSx.gif" alt="nndev" height="30" width="40" />
 
 - 🎯 Software Engineering
 - 👨‍💻 Experience 5+ years
