@@ -1,4 +1,4 @@
-### Hi there  <img align="center" src="https://tenor.com/bKQSx.gif" alt="nndev" height="30" width="40" />
+### Hi there 👋
 
 - 🎯 Software Engineering
 - 👨‍💻 Experience 5+ years
