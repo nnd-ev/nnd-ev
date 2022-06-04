@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" max-width="30px !important"> 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 30px !important;"> 
 
 - 🎯 Software Engineering
 - 👨‍💻 Experience 5+ years
