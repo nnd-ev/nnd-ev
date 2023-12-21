@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎯 Software Engineering
-- 👨‍💻 Experience 5+ years
+- 👨‍💻 Experience 6+ years
 - 🌎 Belgrade, Serbia
 -  <a href="https://comtradeintegration.com/en/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHeCY2OFIqgxA/company-logo_200_200/0/1547634891611?e=2159024400&v=beta&t=zq9zfFimAR1vQ0du5eNJBXGVwEd3lcOAJSOuHeuvYdA" alt="nndev" height="24" width="24" /></a> CTSI - Software Developer
 <!--- - 📫 How to reach me **nnd.stanojev@gmail.com** --->
@@ -31,3 +31,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="24" height="24"/> </a>&nbsp;
 <a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="24" height="24"/> </a> </p>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="nndev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://rs.linkedin.com/in/nndev?trk=profile-badge">Nenad Stanojev</a></div>
+              
