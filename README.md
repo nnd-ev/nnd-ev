@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🎯 Software Engineering
-- 👨‍💻 Experience 6+ years
+- 👨‍💻 Experience 7+ years
 - 🌎 Belgrade, Serbia
--  <a href="https://comtradeintegration.com/en/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHeCY2OFIqgxA/company-logo_200_200/0/1547634891611?e=2159024400&v=beta&t=zq9zfFimAR1vQ0du5eNJBXGVwEd3lcOAJSOuHeuvYdA" alt="nndev" height="24" width="24" /></a> CTSI - Software Developer
+-  <a href="https://comtradeintegration.com/en/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHeCY2OFIqgxA/company-logo_200_200/0/1547634891611?e=2159024400&v=beta&t=zq9zfFimAR1vQ0du5eNJBXGVwEd3lcOAJSOuHeuvYdA" alt="nndev" height="24" width="24" /></a> CTSI - Software Engineer
 <!--- - 📫 How to reach me **nnd.stanojev@gmail.com** --->
 
  <h3 align="left">Connect with me:</h3>
