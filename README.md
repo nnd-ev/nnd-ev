@@ -2,7 +2,7 @@
 
 - 🎯 Software Engineering
 - 👨‍💻 Experience 7+ years
-- 🌎 Belgrade, Serbia
+- 🌎 Belgrade/Novi Sad, Serbia
 -  <a href="https://www.synechron.com/en-rs/rs-home" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1662009952/Synechronlogo_400x400.jpg" alt="synechron_img" height="20" width="20" /></a> Synechron - Software Engineer
 <!--- - 📫 How to reach me **nnd.stanojev@gmail.com** --->
 
