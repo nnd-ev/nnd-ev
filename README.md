@@ -3,7 +3,7 @@
 - 🎯 Software Engineering
 - 👨‍💻 Experience 7+ years
 - 🌎 Belgrade, Serbia
--  <a href="https://comtradeintegration.com/en/" target="blank"><img align="center" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/synechron-vector-logo.png" alt="nndev" height="24" width="24" /></a> Synechron - Software Engineer
+-  <a href="https://comtradeintegration.com/en/" target="blank"><img align="center" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/synechron-vector-logo.png" alt="synechron_img" height="35" width="35" /></a> Synechron - Software Engineer
 <!--- - 📫 How to reach me **nnd.stanojev@gmail.com** --->
 
  <h3 align="left">Connect with me:</h3>
